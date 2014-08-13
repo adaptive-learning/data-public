@@ -46,8 +46,10 @@ The dataset contains 3 files with the answers of users practicing location of co
 |    place_asked    | identifier of the asked place                                                                        |
 |   place_answered  | identifier of the answered place, empty if the user answered "I don't know"                          |
 |        type       | type of the answer: (1) find the given place on the map; (2) pick the name for the highlighted place |
+|      inserted     | datetime (yyyy-mm-dd HH:mm:ss) when the answer was inserted to the system                            |
 |   response_time   | how much time the answer took (measured in milliseconds)                                             |
 | number_of_options | number of options (0 - no option given)                                                              |
+|    place_map      | identifier of the place representing a map for which the question was asked                          |
 | options           | list of identifiers of options (the asked place included)                                            |
 
 ### Places
