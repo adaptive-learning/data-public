@@ -63,18 +63,19 @@ The dataset contains 3 files with the answers of users practicing location of co
 Places have the following types:
 
 1. country
-2. world
-3. continent
-4. river
-5. lake
-6. region (cz)
-7. bundesland
-8. province
-9. region (it)
-10. region
-11. autonomus community
-12. mountains
-13. island
+2. city
+3. world
+4. continent
+5. river
+6. lake
+7. region (cz)
+8. bundesland
+9. province
+10. region (it)
+11. region
+12. autonomus community
+13. mountains
+14. island
 
 and also unknown type (0).
 
