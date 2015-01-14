@@ -84,7 +84,7 @@ and also unknown type (0).
 The following terms apply for this dataset:
 
 * You agree to use these data for academic research purposes only. You agree that these data and any analyses of these data will not be used in development or marketing of commercial products.
-* You will acknowledge Adaptive Learning Group (http://www.fi.muni.cz/~xpelanek/adaptivelearning/) in any publication resulting from this research and notify Radek Pelanek (xpelanek@fi.muni.cz) of any publications resulting from this research.
+* You will acknowledge Adaptive Learning Group (http://www.fi.muni.cz/adaptivelearning/) in any publication resulting from this research and notify Radek Pelanek (xpelanek@fi.muni.cz) of any publications resulting from this research.
 * You will not attempt to determine the identity of any individuals represented in the dataset.
 * Any published results must not include the identity of any individuals, whether such identities are determined from the data itself or from some other source.
 
