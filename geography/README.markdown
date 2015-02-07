@@ -93,8 +93,8 @@ The following terms apply for this dataset:
 Please cite the following paper when you use our dataset:
 
 ```
-@inproceedings{papouvsek2014adaptive,
-   author = {Papou{\v{s}}ek, Jan and Pel{\'a}nek, Radek and Stanislav, V{\'\i}t}
+@inproceedings{papousek2014adaptive,
+   author = {Papou{\v{s}}ek, Jan and Pel{\'a}nek, Radek and Stanislav, V{\'\i}t},
    address = {London},
    booktitle = {Proceedings of the 7th International Conference on Educational Data Mining},
    language = {eng},
